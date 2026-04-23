@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+    margin: 0;
+    padding: 0;
+}
+
+
+/* Título */
+h1 {
+    color: #2c3e50;
+    text-align: center;
+    font-size: 36px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+
+
+/* Parágrafos */
+p {
+    font-family: Arial;
+    font-size: 16px;
+    color: #555555;
+    line-height: 1.6;
+    margin: 10px 0;
+    padding: 10px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+}
+
+
+/* Links */
+a {
+    color: #e74c3c;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+
+/* Imagem */
+img {
+    width: 300px;
+    height: auto;
+    margin: 10px;
+    border: 3px solid #cccccc;
+    border-radius: 12px;
+}
+
